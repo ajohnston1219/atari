@@ -27,7 +27,6 @@ dependencies:
   - libopenblas=0.3.3=h5a2b251_3
   - libpng=1.6.36=hbc83047_0
   - libstdcxx-ng=8.2.0=hdf63c60_1
-  - libtiff=4.0.10=h2733197_1001
   - libuuid=1.0.3=h1bed415_2
   - libxcb=1.13=h1bed415_1
   - libxml2=2.9.9=he19cac6_0
